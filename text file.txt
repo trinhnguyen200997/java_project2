@@ -1,0 +1,30 @@
+Luminar, Magical, 80, 90, Creates dazzling light shields, 60
+Stormcaller, Elemental, 100, 95, Summons thunder and lightning, 75
+Aquarion, Elemental, 85, 88, Creates powerful water waves, 70
+Pyra, Mythical, 90, 100, Shoots fireballs and regenerates health, 85
+Enchanter, Science, 75, 95, Controls enchanted machines, 65
+Frost, Elemental, 80, 85, Freezes enemies with icy breath, 70
+Flora, Nature, 90, 80, Summons vines to trap enemies, 60
+Galaxian, Space, 70, 92, Shoots laser beams and teleports, 90
+Ironheart, Heroic, 100, 80, Punches through walls, 55
+Shadow, Stealth, 85, 90, Becomes invisible and strikes from shadows, 95
+Thunderstorm, Elemental, 90, 78, Creates thunderstorms to scare foes, 80
+Cosmic, Space, 88, 85, Travels through galaxies and discovers secrets, 82
+Solar, Cosmic, 75, 92, Emits powerful solar bursts, 78
+Jungle, Nature, 90, 82, Communicates with animals and uses jungle traps, 68
+Crystal, Magical, 80, 91, Summons crystal barriers for protection, 63
+Ice, Elemental, 85, 86, Fires ice shards at enemies, 72
+Firestorm, Mythical, 95, 95, Calls down a storm of fire, 74
+Wind, Elemental, 80, 83, Manipulates wind to create powerful gusts, 88
+Shade, Stealth, 82, 90, Uses shadow powers to confuse enemies, 91
+Timekeeper, Mystical, 100, 95, Can slow down time to dodge attacks, 67
+Steel, Robotic, 90, 88, Uses robotic arms to lift heavy objects, 60
+Ocean, Elemental, 87, 84, Controls tides and can create whirlpools, 73
+Solar Knight, Heroic, 92, 91, Wields a sword of sunlight, 77
+Storm, Nature, 88, 87, Calls storms to help in battle, 76
+Earth, Elemental, 90, 90, Can cause tremors to knock down opponents, 69
+Light, Magical, 80, 89, Weaves light into shields and traps, 64
+Night, Stealth, 85, 85, Uses night vision and stealth to gather information, 80
+Thunder, Elemental, 100, 90, Delivers powerful electric punches, 78
+Forest, Nature, 90, 88, Can heal plants and animals, 72
+Mystic, Magical, 75, 90, Sees into the future to predict enemy moves, 65
